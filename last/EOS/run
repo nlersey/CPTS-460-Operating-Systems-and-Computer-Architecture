@@ -1,0 +1,8 @@
+qemu-system-arm -M versatilepb -m 256M -sd sdimage -kernel t.bin -serial /dev/pts/0 -serial /dev/pts/2
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+1. kcw.bin is the solution of Problem #1
+
+2. itimer.bin is the solution of Problem #2.
+   P0 forks 5 processes, P1 to P5
+   When a process runs, just enter a timer value, e.g. 
+   20 
+   10 
+   5
+
+3. To run the itimer.bin or kcw.bin files:
+   q kcw   OR   q itimer
