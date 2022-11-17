@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "numeric": "c",
-        "string.h": "c",
-        "*.tcc": "c"
-    }
-}
