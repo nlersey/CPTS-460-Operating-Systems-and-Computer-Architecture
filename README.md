@@ -1,6 +1,7 @@
 # CPTS-460-Operating-Systems-and-Computer-Architecture
 Taken Fall 2021 at WSU 
 Labs and Final Project for CPTS 460. All code is done in C, bash scripting, and assembly. Meant to be run with qeumu on a Linux distro. The MTX OS is custom built by K.C. Wang. Intended goal of the class is to learn how operating systems work. The MTX interacts with an EXT2 filesystem
+
 Course Website: https://eecs.wsu.edu/~cs460/
 
 ## Development Setup
